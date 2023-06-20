@@ -19,7 +19,7 @@ idna==3.4
 loguru==0.7.0
 lxml==4.9.2
 multidict==6.0.4
-numpy==1.25.0
+numpy==1.19.0
 openai==0.27.8
 pdfminer.six==20221105
 pdfplumber==0.9.0
